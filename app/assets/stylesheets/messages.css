@@ -132,20 +132,20 @@
   margin-bottom: 40px;
 }
 
-.send-message{
+.form-input{
   display: flex;
   background-color: white;
   width: 100%;
 }
 
-.send-text{
+.form-message{
   width: 100%;
   padding-left: 10px;
   border: none;
   height: 50px;
 }
 
-.send-button{
+.form-submit{
   padding: 0 20px;
   font-size: 16px;
   color: white;
